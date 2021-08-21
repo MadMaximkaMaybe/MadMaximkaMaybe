@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MadMaximkaMaybe
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JS, c++, c#
+- 📫 How to reach me MadMaximka#8888 ( or MadMaximka#8886 ) - Discord
